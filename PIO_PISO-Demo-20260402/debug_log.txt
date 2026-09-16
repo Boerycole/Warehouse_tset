@@ -1,0 +1,26 @@
+17:06:31.670 进入 PIO_DriverInit 调用
+17:06:31.672 PIO_DriverInit 返回: ret=-1, count=0
+22:54:36.166 进入 PIO_DriverInit 调用
+22:54:36.167 PIO_DriverInit 返回: ret=-1, count=0
+14:54:14.773 进入 PIO_DriverInit 调用
+14:54:14.774 PIO_DriverInit 返回: ret=-1, count=0
+23:04:34.557 进入 PIO_DriverInit 调用
+23:04:34.558 PIO_DriverInit 返回: ret=0, count=1
+23:12:05.994 进入 PIO_DriverInit 调用
+23:12:05.995 PIO_DriverInit 返回: ret=0, count=1
+23:17:34.890 进入 PIO_DriverInit 调用
+23:17:34.890 PIO_DriverInit 返回: ret=0, count=1
+10:15:55.383 进入 PIO_DriverInit 调用
+10:15:55.384 PIO_DriverInit 返回: ret=0, count=1
+10:23:12.889 进入 PIO_DriverInit 调用
+10:23:12.890 PIO_DriverInit 返回: ret=0, count=1
+10:30:22.122 进入 PIO_DriverInit 调用
+10:30:22.123 PIO_DriverInit 返回: ret=0, count=1
+12:04:53.040 进入 PIO_DriverInit 调用
+12:04:53.041 PIO_DriverInit 返回: ret=0, count=1
+12:44:42.452 进入 PIO_DriverInit 调用
+12:44:42.453 PIO_DriverInit 返回: ret=0, count=1
+12:48:24.817 进入 PIO_DriverInit 调用
+12:48:24.818 PIO_DriverInit 返回: ret=0, count=1
+22:53:11.828 进入 PIO_DriverInit 调用
+22:53:11.843 PIO_DriverInit 返回: ret=0, count=1
